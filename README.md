@@ -41,7 +41,7 @@ Follow the setup wizard to configure your database and start using EspoCRM.
 
 ## **Video Walkthrough**
 
-[EspoCRM_Docker_Project.mp4](./EspoCRM_Docker_Project.mp4)
+https://github.com/user-attachments/assets/622078ea-649f-4be9-8237-6d63b2d03a6d
 
 ---
 
